@@ -190,6 +190,7 @@ nav a,
 
     .sections {
         flex-direction: column;
+        flex: 1;
     }
 
     .images-1 img {
